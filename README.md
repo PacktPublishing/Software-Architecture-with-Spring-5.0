@@ -1,6 +1,5 @@
 # Software-Architecture-with-Spring-5.0
 Software-Architecture-with-Spring-5.0, published by Packt
-# Software Architecture with Spring 5.0
 
 <a href="https://www.packtpub.com/application-development/mastering-architecting-solutions-spring-5?utm_source=github&utm_medium=repository&utm_campaign=9781788992992"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09935_low.png" alt="
 Software Architecture with Spring 5.0" height="256px" align="right"></a>
