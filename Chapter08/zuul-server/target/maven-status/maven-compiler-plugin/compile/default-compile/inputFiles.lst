@@ -1,0 +1,5 @@
+/Users/moe/Documents/Proyectos/spring-architectures-with-spring/chapter08/zuul-server/src/main/java/com/packtpub/zuulserver/filter/PostFilter.java
+/Users/moe/Documents/Proyectos/spring-architectures-with-spring/chapter08/zuul-server/src/main/java/com/packtpub/zuulserver/ZuulServerApplication.java
+/Users/moe/Documents/Proyectos/spring-architectures-with-spring/chapter08/zuul-server/src/main/java/com/packtpub/zuulserver/filter/RouteFilter.java
+/Users/moe/Documents/Proyectos/spring-architectures-with-spring/chapter08/zuul-server/src/main/java/com/packtpub/zuulserver/filter/PreFilter.java
+/Users/moe/Documents/Proyectos/spring-architectures-with-spring/chapter08/zuul-server/src/main/java/com/packtpub/zuulserver/filter/ErrorFilter.java
